@@ -1,0 +1,12 @@
+# Ignore Esri and ArcGIS Pro temp files
+*.lock
+*.tmp
+*.log
+
+# Ignore large datasets
+data/processed/
+output/logs/
+
+# General system files
+.DS_Store
+Thumbs.db
