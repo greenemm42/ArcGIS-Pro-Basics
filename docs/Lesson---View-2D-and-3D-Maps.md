@@ -12,9 +12,13 @@ Date: 2025-12-09
 3. 
 
 ## Screenshots
-(Place screenshots in: output/screenshots)
+## Screenshot – 2D Northridge Earthquake Map
 
-![screenshot](../output/screenshots/placeholder.png)
+![Northridge 2D Map](../output/screenshots/Northridge_2D_Map.png)
+
+## Screenshot – 3D Northridge Scene
+
+![Northridge 3D Scene](../output/screenshots/Northridge_3D_Scene.png)
 
 ## Key Takeaways
 - 
